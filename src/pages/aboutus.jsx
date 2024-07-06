@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 import Bannerone from '../images/banner1.png'
 import Bannertwo from '../images/banner2.png'
 import Bannerthree from '../images/banner3.png'
