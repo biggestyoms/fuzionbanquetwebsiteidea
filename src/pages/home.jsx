@@ -11,7 +11,7 @@ import imageSix from '../images/firstone.png'
 import imageSeven from '../images/secondone.png'
 import { RiArrowRightDoubleFill } from "react-icons/ri";
 import { RiArrowLeftDoubleFill } from "react-icons/ri";
-import Aos, { init } from 'aos'
+import Aos from 'aos'
 import 'aos/dist/aos.css'
 
 
