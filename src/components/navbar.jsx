@@ -71,7 +71,7 @@ const Navbar = () => {
       </div>
       <div className=' flex mt-9 gap-1 items-center justify-center '>
       <CiMail color='black' size={20} />
-      <a href="#">info@fuzionbanquets.com</a>
+      <p>info@fuzionbanquets.com</p>
       </div>
 </div>
 </div>
@@ -109,7 +109,7 @@ const Navbar = () => {
       </div>
       <div className='lg:flex hidden gap-1 items-center justify-center '>
       <CiMail color='black' size={20} />
-      <a href="#">info@fuzionbanquets.com</a>
+      <p>info@fuzionbanquets.com</p>
       </div>
 
       <div className='flex items-center justify-center gap-4'>
