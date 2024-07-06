@@ -3,9 +3,7 @@ import Logo from "../images/logo.png"
 import { FaInstagram } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
-import imageOne from '../images/imageone.jpg'
-import imageTwo from '../images/imagetwo.jpg'
-import imageThree from '../images/imagethree.jpg'
+
 
 
 
